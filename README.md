@@ -1,7 +1,7 @@
-EasyRTC Server Example
+Video Conference App
 ======================
 
-This folder contains all the files you'll need to create a simple server with EasyRTC, Express, and Socket.io. You can copy these files where you wish.
+This folder contains all the files you'll need to create a simple server with EasyRTC, Express, and Socket.io. I'm using EasyRTC's framework to do most of the heavy lifting while I focus more on UI.
 
 Files and Folders:
 ------------------
